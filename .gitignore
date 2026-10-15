@@ -1,3 +1,23 @@
-basicragenv
+# Virtual environment
+basicragenv/
 
+# Environment variables and secrets
 .env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Generated output
+output.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
