@@ -14,7 +14,7 @@ The HR Policy Assistant provides a simple Streamlit interface where users can as
 
 ### Example Output
 
-![HR Policy Assistant Output](docs/output.png)
+![HR Policy Assistant Output](output.png)
 
 ### Example Question
 
